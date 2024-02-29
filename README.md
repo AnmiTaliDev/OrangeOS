@@ -1,14 +1,14 @@
-# SmartOS
+# Orange
 
-Добро пожаловать в SmartOmegaOS — инновационную операционную систему, разработанную с умом и предназначенную для обеспечения удобства и эффективности.
+Добро пожаловать в OrangeOS — инновационную операционную систему, разработанную с умом и предназначенную для обеспечения удобства и эффективности.
 
 ## О проекте
 
-SmartOmegaLinuxOS объединяет в себе современные технологии и удобный пользовательский интерфейс, чтобы предоставить вам надежную и мощную операционную систему для широкого круга задач.
+OrangeOS объединяет в себе современные технологии и удобный пользовательский интерфейс, чтобы предоставить вам надежную и мощную операционную систему для широкого круга задач.
 
 ## Возможности
 
-- **Умное управление пакетами (Smart OmegaLinux Manager SOLM):** Используйте умные инструменты для установки, обновления и удаления пакетов.
+- **Умное управление пакетами (Orange Maneger OM):** Используйте умные инструменты для установки, обновления и удаления пакетов.
 
 - **Интуитивный интерфейс:** Простой и удобный пользовательский интерфейс, который делает работу с системой увлекательной и эффективной.
 
@@ -21,27 +21,27 @@ SmartOmegaLinuxOS объединяет в себе современные тех
 
 Присоединяйтесь к нашему сообществу, делитесь своим опытом и предложениями. Мы готовы слушать и совершенствоваться вместе с вами.
 
-- Сайт: [http://www.smartos.pp.ua](http://www.smartos.pp.ua)
-- Форум: [http://forum.smartos.pp.ua](http://forum.smartos.pp.ua)
+- Сайт: [http://www.anmitali.kz](https://anmitali.kz/?page_id=53)
+- Форум: [http://forums.anmitali.kz](http://forums.anmitali.kz/orange)
 
 ## Лицензия
 
-SmartOmegaOS распространяется под лицензией ATOSource.
+TheOrangeProject распространяется под лицензией ATOSource.
 
 ---
 
-© 2023 SmartLinuxOS (OmegaLinux). Все права защищены.
-# SmartOS
+© 2023 OrangeOS (SmartLinux). Все права защищены.
+# Orange
 
-Welcome to SmartOmegaOS, an innovative operating system designed wisely and designed to provide convenience and efficiency.
+Welcome to OrangeOS, an innovative operating system designed wisely and designed to provide convenience and efficiency.
 
 ## About the project
 
-SmartOmegaLinuxOS combines modern technology and a user-friendly interface to provide you with a reliable and powerful operating system for a wide range of tasks.
+OrangeOS combines state-of-the-art technology and a user-friendly interface to provide you with a reliable and powerful operating system for a wide range of tasks.
 
 ## Features
 
-- **Smart Package Management (Smart OmegaLinux Manager SOLM):** Use smart tools to install, update and remove packages.
+- **Smart Package Management (Orange Maneger OM):** Use smart tools to install, update and remove packages.
 
 - **Intuitive interface:** A simple and user-friendly user interface that makes working with the system fun and efficient.
 
@@ -54,27 +54,27 @@ The software is still in development
 
 Join our community and share your experiences and suggestions. We are ready to listen and improve with you.
 
-- Website: [http://www.smartos.pp.ua ](http://www.smartos.pp.ua )
-- Forum: [http://forum.smartos.pp.ua ](http://forum.smartos.pp.ua )
+- Website: [http://www.anmitali.kz ](https://anmitali.kz/?page_id=53 )
+- Forum: [http://forums.anmitali.kz ](http://forums.anmitali.kz/orange )
 
 ## License
 
-SmartOmegaOS is distributed under the ATOSource license.
+TheOrangeProject is distributed under the ATOSource license.
 
 ---
 
-© 2023 SmartLinuxOS (OmegaLinux). All rights reserved.
-# SmartOS
+© 2023 OrangeOS (SmartLinux). All rights reserved.
+# Orange
 
-Smartomegaos-ğa qoş keldıñız-aqylmen jasalğan jäne yñğailylyq pen tiımdılıktı qamtamasyz etuge arnalğan innovasialyq Operasialyq jüie.
+OrangeOJ-ğa qoş keldıñız-aqylmen jasalğan jäne yñğailylyq pen tiımdılıktı qamtamasyz etuge arnalğan innovasialyq Operasialyq jüie.
 
 ## Joba turaly
 
-SmartOmegaLinuxOS sızge köptegen tapsyrmalar üşın senımdı jäne quatty operasialyq jüienı ūsynu üşın zamanaui tehnologialar men paidalanuşyğa yñğaily interfeistı bırıktıredı.
+Orange sızge köptegen tapsyrmalar üşın senımdı jäne quatty operasialyq jüienı ūsynu üşın zamanaui tehnologialar men paidalanuşyğa yñğaily interfeistı bırıktıredı.
 
 ## Mümkındıkter
 
-- **Aqyldy pakettı basqaru (Smart OmegaLinux Manager SOLM):** paketterdı ornatu, jañartu jäne joiu üşın aqyldy qūraldardy qoldanyñyz.
+- **Aqyldy pakettı basqaru (OM):** paketterdı ornatu, jañartu jäne joiu üşın aqyldy qūraldardy qoldanyñyz.
 
 - **İntuitivtı interfeis: * * jüiemen jūmys ısteudı qyzyqty jäne tiımdı etetın qarapaiym jäne yñğaily paidalanuşy interfeisı.
 
@@ -87,13 +87,13 @@ PO älı äzırlenude
 
 Bızdıñ qoğamdastyqqa qosylyñyz, öz täjıribeñızben jäne ūsynystaryñyzben bölısıñız. Bız sızdermen bırge tyñdauğa jäne jaqsartuğa daiynbyz.
 
-- Sait: [http://www.smartos.pp.ua](http://www.smartos.pp.ua)
-- Forum: [http://forum.smartos.pp.ua](http://forum.smartos.pp.ua)
+- Sait: [http://www.anmitali.kz ](https://anmitali.kz/?page_id=53 )
+- Forum: [http://forums.anmitali.kz ](http://forums.anmitali.kz/orange )
 
 ## Lisenzia
 
-SmartOmegaOS ATOSource lisenziasymen taratylady.
+TheOrangeOSProject ATOSource lisenziasymen taratylady.
 
 ---
 
-© 2023 SmartLinuxOS (OmegaLinux). Barlyq qūqyqtar qorğalğan.
+© 2023 OrangeOS (SmartLinux). Barlyq qūqyqtar qorğalğan.
